@@ -1,135 +1,142 @@
-# أحمد خالد سعد
+# Hi there, I'm Ahmed Khaled Saad 👋
 
 
 
-### مطور نظم معلومات جغرافية مبتدئ | أتمتة بايثون وجغرافية مكانية
+### Junior GIS Developer | Python & Geospatial Automation
 
 
 
---- 
+I am a GIS student with hands-on experience in Python-based geospatial automation and spatial data workflows. I am passionate about combining GIS concepts with backend engineering and geospatial systems development. I am familiar with FastAPI, PostgreSQL/PostGIS, Docker, and software engineering fundamentals including testing, version control, and scripting.
 
 
 
-**الملخص الاحترافي:**
+---
 
 
 
-طالب نظم معلومات جغرافية (GIS) ذو خبرة عملية في أتمتة البيانات الجغرافية المكانية وسير عمل البيانات المكانية باستخدام بايثون. مهتم بدمج مفاهيم نظم المعلومات الجغرافية مع هندسة الواجهة الخلفية وتطوير أنظمة جغرافية مكانية. ملم بـ FastAPI، PostgreSQL/PostGIS، Docker، وأساسيات هندسة البرمجيات بما في ذلك الاختبار، التحكم في الإصدار، والبرمجة النصية.
+### 🛠️ Technical Proficiencies
 
 
 
-**الكفاءات التقنية:**
+**Geospatial & Backend Development**
+
+- **Languages & Frameworks:** Python, FastAPI, SQL
+- 
+- **Frontend Familiarity:** React (Basic)
+- 
+- **Libraries:** GeoPandas, Shapely
+- 
+- **Database & Spatial:** PostgreSQL / PostGIS, Spatial Queries, Database Design Basics, CRS & Coordinate Transformations
+- 
+- **API Design:** REST APIs, API Routing, Request Handling
+- 
+
+
+**Docker & Local Development Environments**
+
+- **Containerization & Setup:** Docker, Docker Compose
+- 
+- **Version Control:** Git & GitHub (Branching, Pull Requests, Repository Management)
+- 
+- **Migrations & Testing:** Alembic, Pytest
+- 
+- **OS & Scripting:** Linux, Bash Scripting
+- 
+
+
+**Automation & Tooling**
+
+- Python Automation Scripts
+- 
+- Ollama-based Local AI Assistance
+- 
+- Metadata Processing Workflows
+- 
+
+
+**Fundamentals**
+
+- **Computer Science:** Data Structures & Algorithms
+- 
+- **Networking:** Networking Fundamentals, HTTP & Client-Server Architecture
+- 
+
+
+---
 
 
 
-*   **تطوير نظم المعلومات الجغرافية والواجهة الخلفية:**
-*   
-    *   **اللغات والأطر:** بايثون، FastAPI، SQL
-    *   
-    *   **الإلمام بالواجهة الأمامية:** React (أساسي)
-    *   
-    *   **المكتبات:** GeoPandas، Shapely
-    *   
-    *   **قواعد البيانات والمكانية:** PostgreSQL / PostGIS، الاستعلامات المكانية، أساسيات تصميم قواعد البيانات، أنظمة الإحداثيات والتحويلات
-    *   
-    *   **تصميم واجهات برمجة التطبيقات (API):** REST APIs، توجيه API، معالجة الطلبات
-    *   
-
-
-*   **Docker وبيئات التطوير المحلية:**
-*   
-    *   **الحاويات والإعداد:** Docker، Docker Compose
-    *   
-    *   **التحكم في الإصدار:** Git & GitHub (الفرع، طلبات السحب، إدارة المستودعات)
-    *   
-    *   **الترحيل والاختبار:** Alembic، Pytest
-    *   
-    *   **أنظمة التشغيل والبرمجة النصية:** Linux، Bash Scripting
-    *   
-
-
-*   **الأتمتة والأدوات:**
-*   
-    *   برامج أتمتة بايثون
-    *   
-    *   مساعدة الذكاء الاصطناعي المحلية القائمة على Ollama
-    *   
-    *   سير عمل معالجة البيانات الوصفية
-    *   
-
-
-*   **الأساسيات:**
-*   
-    *   **علوم الحاسوب:** هياكل البيانات والخوارزميات
-    *   
-    *   **الشبكات:** أساسيات الشبكات، HTTP وهندسة العميل والخادم
-    *   
-
-
-**المشاريع الرئيسية:**
+### 🚀 Key Projects
 
 
 
-*   **منصة العقارات المكانية | مشروع شخصي | 2025 – حتى الآن**
-*   
-    *   تطوير منصة عقارية جغرافية مكانية كاملة المكدس باستخدام FastAPI، PostgreSQL/PostGIS، React، و Docker.
-    *   
-    *   تنفيذ تصفية العقارات القائمة على الموقع الجغرافي والاستعلامات المكانية باستخدام وظائف هندسة PostGIS.
-    *   
-    *   تصميم واجهات برمجة تطبيقات REST للمصادقة الأساسية، إدارة العقارات، وسير عمل البحث المكاني.
-    *   
-    *   إدارة ترحيلات قواعد البيانات والخدمات المعبأة باستخدام Alembic و Docker Compose.
-    *   
-    *   تطبيق ممارسات هندسة البرمجيات بما في ذلك هيكل المشروع المعياري، سير عمل Git، التصحيح، والاختبار.
-    *   
+#### 🏢 Spatial Estate Platform (2025 – Present)
+
+- Developing a full-stack geospatial real estate platform using FastAPI, PostgreSQL/PostGIS, React, and Docker.
+- 
+- Implementing geolocation-based property filtering and spatial queries using PostGIS geometry functions.
+- 
+- Designing REST APIs for basic authentication, property management, and spatial search workflows.
+- 
+- Managing database migrations and containerized services using Alembic and Docker Compose.
+- 
+- Applying software engineering practices including modular project structure, Git workflows, debugging, and testing.
+- 
 
 
-*   **بيئة سير عمل الذكاء الاصطناعي المحلية | 2024**
-*   
-    *   بناء وتكوين بيئات ذكاء اصطناعي محلية باستخدام Ollama لسير عمل نظم المعلومات الجغرافية التي تركز على الخصوصية.
-    *   
-    *   تكوين نماذج محلية للمساعدة في تنظيف البيانات الوصفية الجغرافية المكانية الجدولية وتنسيق الملفات النصية غير المهيكلة.
-    *   
-    *   أتمتة خطوات المعالجة المسبقة للبيانات قبل إدراجها في قاعدة البيانات باستخدام برامج أتمتة بايثون خفيفة الوزن.
-    *   
+#### 🤖 Local AI Workflow Environment (2024)
+
+- Built and configured local AI environments using Ollama for privacy-focused GIS workflows.
+- 
+- Configured local models to assist in cleaning tabular geospatial metadata and formatting unstructured text files.
+- 
+- Automated data pre-processing steps before database insertion using lightweight Python automation scripts.
+- 
 
 
-**التعليم:**
-
-
-
-*   **بكالوريوس الآداب، جامعة طنطا | 2022 - 2027 (متوقع)**
-*   
-    *   **القسم:** نظم المعلومات الجغرافية (GIS)
-    *   
-    *   **المقررات الدراسية ذات الصلة:** التحليل المكاني، الجيوديسيا، رسم الخرائط الرقمية، التحليل العددي لنظم المعلومات الجغرافية، وأنظمة إدارة قواعد البيانات (DBMS)
-    *   
-    *   **التركيز:** دمج ممارسات هندسة البرمجيات (التحكم في الإصدار، الكود النظيف، الاختبار) في مسارات بيانات جغرافية.
-    *   
-
-
-**الشهادات (ITI - Mahara Tech):**
+---
 
 
 
-*   برمجة بايثون (المستويان 1 و 2)
-*   
-*   مقدمة في البرمجة باستخدام C
-*   
-*   أساسيات الشبكات
-*   
-
-
-**اللغات:**
+### 🎓 Education
 
 
 
-*   **العربية:** 
+**Bachelor of Arts, Tanta University** | 2022 - 2027 (Expected)
+
+- **Department:** Geographic Information Systems (GIS)
+- 
+- **Relevant Coursework:** Spatial Analysis, Geodesy, Digital Mapping, Numerical Analysis for GIS, and Database Management Systems (DBMS)
+- 
+- **Focus:** Integrating software engineering practices (version control, clean code, testing) into geographic data pipelines
+- 
+
+
+---
 
 
 
+### 📜 Certifications (ITI - Mahara Tech)
+
+- Python Programming (Levels 1 & 2)
+- 
+- Introduction to Programming Using C
+- 
+- Network Fundamentals
+- 
 
 
+---
+
+
+
+### 📫 Let's Connect!
+
+- **Email:** ahmed.khaled.saad.000001@gmail.com
+- 
+- **LinkedIn:** [Ahmed Khaled Saad](https://www.linkedin.com/in/ahmed-khaled-18417b299)
+- 
+- **Location:** Tanta, Egypt
 
 
 
